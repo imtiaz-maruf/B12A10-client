@@ -35,5 +35,5 @@ General
 👨‍💻 Author
 Imtiaz Maruf
 •	GitHub: github.com/imtiaz-maruf/
-•	Email: Maruf.techware@gmail.com
+•	Email: maruf.techware@gmail.com
 
